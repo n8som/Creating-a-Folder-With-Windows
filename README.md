@@ -1,6 +1,6 @@
 # Creating-a-Folder-With-Windows
 
-Creating a folder in Windows is super simple and if you're reading this you probably already know how, but for my documentation purposes, this will teach you how.
+Creating a folder in Windows is super simple and if you're reading this you probably already know how, but here's how to do it anyways.
 
 There are a few different ways you can create a folder, e.g. using the command line, using the GUI, and it is even possible to do it with just the keyboard. I will be showing you the simplest way. The first thing you need to do is to right-click anywhere on the desktop and a menu will appear: 
 
